@@ -18,8 +18,8 @@
 </head>
 
 <body>
-    <h1>Starting...</h1>
-
+    <!-- <h1>Starting...</h1> -->
+    <img src="{{ asset('img/Old_man.png') }}" style="width: 50%; margin-left:200px;" alt="description of myimage">
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
